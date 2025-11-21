@@ -27,9 +27,9 @@ This free version (MVP) centralizes two essential modules to simplify pentest an
 ---
 
 ## 📂 Project Structure
-
+```
 SentinelSuite/
-```├── assets/                 # Icons
+├── assets/                 # Icons
 ├── core/
 │   ├── __init__.py
 │   ├── config_manager.py
