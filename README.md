@@ -28,7 +28,7 @@ This free version (MVP) centralizes two essential modules to simplify pentest an
 
 ## 📂 Project Structure
 
-'''SentinelSuite/
+```SentinelSuite/
 ├── assets/                 # Icons
 ├── core/
 │   ├── __init__.py
@@ -64,7 +64,7 @@ This free version (MVP) centralizes two essential modules to simplify pentest an
 ├── core_launcher.py        # Main interface
 ├── LICENSE.txt
 ├── README.md
-└── Requirements.txt        # Dependencies'''
+└── Requirements.txt        # Dependencies```
 
 ---
 
