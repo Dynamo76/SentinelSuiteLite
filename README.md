@@ -64,8 +64,8 @@ SentinelSuite/
 ├── core_launcher.py        # Main interface
 ├── LICENSE.txt
 ├── README.md
-└── Requirements.txt        # Dependencies```
-
+└── Requirements.txt        # Dependencies
+```
 ---
 
 ## ⚙️ Installation
