@@ -7,6 +7,17 @@ updates:
     open-pull-requests-limit: 5
 
   - package-ecosystem: "github-actions"
-    directory: "/"
+    directory:
+      - "/.github/workflows"
+      - "/.github/actions"
     schedule:
-      interval: "weekly"
+      interval: weekly
+    labels:
+      - Rebuild
+    groups:
+      actions-minor:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
