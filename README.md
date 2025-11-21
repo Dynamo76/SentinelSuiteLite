@@ -8,8 +8,8 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 ![Issues](https://img.shields.io/github/issues/Dynamo76/SentinelSuiteLite)
 ![Stars](https://img.shields.io/github/stars/Dynamo76/SentinelSuiteLite?style=social)
-![CI](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/ci.yml/badge.svg)
-![CodeQL](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/codeql.yml/badge.svg)
+![CI](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/ci.yml/badge.svg?branch=main)
+![CodeQL](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/codeql.yml/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/Dynamo76/SentinelSuiteLite/branch/main/graph/badge.svg)](https://codecov.io/gh/Dynamo76/SentinelSuiteLite)
 
 **SentinelSuite Lite** is a local assistant designed for CTF labs (TryHackMe, HackTheBox…).  
