@@ -6,10 +6,10 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
-![Issues](https://img.shields.io/github/issues/Dynamo76/SentinelSuite)
-![Stars](https://img.shields.io/github/stars/Dynamo76/SentinelSuite?style=social)
-![CI](https://github.com/Dynamo76/SentinelSuite/actions/workflows/ci.yml/badge.svg)
-![CodeQL](https://github.com/Dynamo76/SentinelSuite/actions/workflows/codeql.yml/badge.svg)
+![Issues](https://img.shields.io/github/issues/Dynamo76/SentinelSuiteLite)
+![Stars](https://img.shields.io/github/stars/Dynamo76/SentinelSuiteLite?style=social)
+![CI](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/codeql.yml/badge.svg)
 
 **SentinelSuite Lite** is a local assistant designed for CTF labs (TryHackMe, HackTheBox…).  
 This free version (MVP) centralizes two essential modules to simplify pentest and training sessions.
@@ -28,8 +28,8 @@ This free version (MVP) centralizes two essential modules to simplify pentest an
 
 ## 📂 Project Structure
 
-```SentinelSuite/
-├── assets/                 # Icons
+SentinelSuite/
+```├── assets/                 # Icons
 ├── core/
 │   ├── __init__.py
 │   ├── config_manager.py
