@@ -164,7 +164,7 @@ Merci à toutes les personnes qui contribuent à ce projet 💖
 ## 💖 Support
 Si vous aimez SentinelSuite Lite et souhaitez soutenir son développement :
 
-<a href="https://www.buymeacoffee.com/ton_username" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"> </a>
+<a href="https://www.buymeacoffee.com/Dynamo76" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"> </a>
 
 ---
 
