@@ -11,6 +11,8 @@
 ![CI](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/ci.yml/badge.svg?branch=main)
 ![CodeQL](https://github.com/Dynamo76/SentinelSuiteLite/actions/workflows/codeql.yml/badge.svg?branch=main)
 [![codecov](https://codecov.io/gh/Dynamo76/SentinelSuiteLite/branch/main/graph/badge.svg)](https://codecov.io/gh/Dynamo76/SentinelSuiteLite)
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=Dynamo42&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/Dynamo42)
+
 
 **SentinelSuite Lite** is a local assistant designed for CTF labs (TryHackMe, HackTheBox…).  
 This free version (MVP) centralizes two essential modules to simplify pentest and training sessions.
