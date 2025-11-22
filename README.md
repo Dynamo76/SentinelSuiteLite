@@ -163,9 +163,7 @@ Merci à toutes les personnes qui contribuent à ce projet 💖
 ---
 
 ## 💖 Support
-Si vous aimez SentinelSuite Lite et souhaitez soutenir son développement :
-
-<a href="https://www.buymeacoffee.com/Dynamo42" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Dynamo42&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"/></a>
+If you like SentinelSuite Lite and would like to support its development, feel free to buy me a coffee.
 
 ---
 
