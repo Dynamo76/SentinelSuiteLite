@@ -24,10 +24,9 @@ This free version (MVP) centralizes two essential modules to simplify pentest an
 ### Modules: ###
 - 🔍 **Scan Manager**: Nmap launcher with predefined profiles (Quick Analysis, Deep Analysis, etc.)
 - 🗂 **Notes Manager**: lab notes in Markdown with templates (Linux, Web, Windows)
-
-- 📁 Clear lab organization: notes, scans, reports, metadata
-- 🕓 Automatic saving of scan results (`scan_history/`)
-- Modern interface built with **CustomTkinter**
+📁 Clear lab organization: notes, scans, reports, metadata
+🕓 Automatic saving of scan results (`scan_history/`)
+Modern interface built with **CustomTkinter**
 
 ---
 
