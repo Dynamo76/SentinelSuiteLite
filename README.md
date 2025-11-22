@@ -19,8 +19,10 @@ This free version (MVP) centralizes two essential modules to simplify pentest an
 
 ## ✨ Main Features
 
+### Modules: ###
 - 🔍 **Scan Manager**: Nmap launcher with predefined profiles (Quick Analysis, Deep Analysis, etc.)
 - 🗂 **Notes Manager**: lab notes in Markdown with templates (Linux, Web, Windows)
+
 - 📁 Clear lab organization: notes, scans, reports, metadata
 - 🕓 Automatic saving of scan results (`scan_history/`)
 - Modern interface built with **CustomTkinter**
@@ -83,8 +85,8 @@ SentinelSuite/
 
 ## 🚀 Roadmap
 ### ✅ Version Lite (free)
-Scan Manager (Nmap + predefined profiles)
-Notes Manager (Markdown + templates)
+- Scan Manager (Nmap + predefined profiles)
+- Notes Manager (Markdown + templates)
 
 ---
 
@@ -147,6 +149,22 @@ Your feedback is essential to improve SentinelSuite Lite.
 - Open an **issue** on GitHub
 - Join the **discussions**
 - Share your opinion on module usefulness and your needs
+
+---
+
+## 👥 Contributeurs
+
+Merci à toutes les personnes qui contribuent à ce projet 💖  
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+## 💖 Support
+Si vous aimez SentinelSuite Lite et souhaitez soutenir son développement :
+
+<a href="https://www.buymeacoffee.com/ton_username" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"> </a>
 
 ---
 
